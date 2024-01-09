@@ -1,0 +1,14 @@
+Step 1) create account in github
+Step 2) create repository in ur git account
+Step 3) download gitbash from https://www.git-scm.com/downloads
+Step 4) installed gitbash in ur machine
+Step 5) right-click on ur targeted folder for clone ur git repo and click on Git Bash here Option
+Step 6) in gitbash terminal cmd : git clone https://github.com/jay-amin-tops/09JanPHPTTS11_30.git
+Step 7) inside ur local repo make chanegs as per ur requirement
+Step 8) for apply local changes in github 
+Step 9) open git bash in targeted repo
+
+ 
+
+
+
