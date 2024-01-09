@@ -7,6 +7,17 @@ Step 6) in gitbash terminal cmd : git clone https://github.com/jay-amin-tops/09J
 Step 7) inside ur local repo make chanegs as per ur requirement
 Step 8) for apply local changes in github 
 Step 9) open git bash in targeted repo
+Step 10) git add .   
+	for apply all changes ready for push
+
+Step 11) git commit -m "ur msg" 
+	for upload ur data with proper msg 
+
+Step 12) git push 
+	for apply that changes with that msg in github 
+	
+
+
 
  
 
