@@ -9,7 +9,15 @@ https://creately.com/diagram-community/popular/t/activity-diagram
 6) First Level Diagram (req)
 7) if required than go for the second and thhird and so on Level Diagram
 8) ERD (req)
-9) Class Diagram (req)
+9) Class Diagram
 
 
+
+
+
+
+1) UseCase Diagram
+2) Context Level Diagram
+3) First Level Diagram
+4) ERD (req)
 
